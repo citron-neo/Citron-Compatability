@@ -10,6 +10,15 @@
   },
   {
     "compatibility": 0,
+    "directory": "13 Sentinels: Aegis Rim",
+    "releases": [
+      {
+        "id": "01003FC01670C000"
+      }
+    ]
+  },
+  {
+    "compatibility": 0,
     "directory": "Animal Crossing: New Horizons",
     "releases": [
       {
@@ -32,6 +41,15 @@
     "releases": [
       {
         "id": "01009B500007C000"
+      }
+    ]
+  },
+  {
+    "compatibility": 0,
+    "directory": "Bayonetta 3",
+    "releases": [
+      {
+        "id": "01004A4010FEA000"
       }
     ]
   },
