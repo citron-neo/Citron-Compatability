@@ -81,7 +81,7 @@
     ]
   },
   {
-    "compatibility": 0,
+    "compatibility": 1,
     "directory": "Crash™ Team Racing Nitro-Fueled",
     "releases": [
       {
@@ -95,6 +95,15 @@
     "releases": [
       {
         "id": "0100B41013C82000"
+      }
+    ]
+  },
+  {
+    "compatibility": 3,
+    "directory": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "releases": [
+      {
+        "id": "0100AD80208A8000"
       }
     ]
   },
