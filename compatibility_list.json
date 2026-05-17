@@ -640,6 +640,15 @@
   },
   {
     "compatibility": 1,
+    "directory": "Tomodachi Life: Living the Dream",
+    "releases": [
+      {
+        "id": "010051F0207B2000"
+      }
+    ]
+  },
+  {
+    "compatibility": 1,
     "directory": "Xenoblade Chronicles 3",
     "releases": [
       {
